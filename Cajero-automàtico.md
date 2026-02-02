@@ -20,7 +20,7 @@ Si la clave es incorrecta:
 FIN
 
 ## PSEUDOCODIGO
-...
+```
 INICIO
 INSERTAR tarjeta
 LEER usuario
@@ -42,8 +42,7 @@ FIN SI
    ENTREGAR Voucher
    EXOUKSAR tarjeta
 FIN
-...
-   
+```
 
    
 
