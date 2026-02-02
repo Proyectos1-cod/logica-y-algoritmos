@@ -20,7 +20,7 @@ Si la clave es incorrecta:
 FIN
 
 ## PSEUDOCODIGO
-....
+...
 INICIO
 INSERTAR tarjeta
 LEER usuario
