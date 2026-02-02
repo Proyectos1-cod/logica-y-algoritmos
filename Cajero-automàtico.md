@@ -24,7 +24,7 @@ FIN
 INICIO
 INSERTAR tarjeta
 LEER usuario
-LEER calve
+LEER clave
 SI clave es correcta ENTONCES
    MOSTRAR MENU
    LEER la opción
