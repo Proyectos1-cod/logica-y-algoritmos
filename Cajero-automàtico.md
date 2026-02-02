@@ -19,6 +19,34 @@ Si la clave es incorrecta:
 7. expulsar tarjeta
 FIN
 
+## PSEUDOCODIGO
+....
+INICIO
+INSERTAR tarjeta
+LEER usuario
+LEER calve
+SI clave es correcta ENTONCES
+   MOSTRAR MENU
+   LEER la opción
+   EJECUTAR opción
+
+   PREGUNTAR ¿Desea otra operción?
+   SI respuesta == SI entonces
+   VOLVER al menú
+   FIN SI
+SINO
+   MOSTRAR "Clave incorrecta"
+   PERMITIR reintento
+FIN SI
+
+   ENTREGAR Voucher
+   EXOUKSAR tarjeta
+FIN
+...
+   
+
+   
+
 
     
    
