@@ -2,7 +2,7 @@
 
 **Descripción:**  
 Algoritmo que describe el proceso de registro de un usuario en una página web.
-
+```text
 INICIO
 1. Abrir la página web.
 2. Seleccionar la opción "Registrarse".
@@ -15,7 +15,7 @@ INICIO
    Mostrar mensaje de error en los datos.
    Solicitar que el usuario corrija la información.
 FIN
-
+```
 
 ``` 
 
