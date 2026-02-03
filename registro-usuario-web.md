@@ -3,19 +3,7 @@
 **Descripción:**  
 Algoritmo que describe el proceso de registro de un usuario en una página web.
 
-
 INICIO
-1. Abrir la página web.
-2. Seleccionar la opción “Registrarse”.
-3. Ingresar los datos del usuario.
-6. Validar los datos ingresados.
-7. SI los datos son correctos ENTONCES
-   . Verificar el correo electrónico.
-   . Mostrar mensaje de registro exitoso.
-8. SINO
-   . Mostrar mensaje de ERROR EN LOS MDATOS.
-   . Solicitar que el usuario corrija la información.
-FININICIO
 1. Abrir la página web.
 2. Seleccionar la opción "Registrarse".
 3. Ingresar los datos del usuario.
