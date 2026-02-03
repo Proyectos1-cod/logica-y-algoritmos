@@ -1,4 +1,4 @@
-# Algoritmo: Verificacion de número telefonico en una aplicaión
+# Algoritmo: Verificacion de número telefonico en una aplicación
 
 ## Descripción
 Algoritmo que describe el proceso de verificación de un número 
@@ -37,22 +37,23 @@ ABRIR aplicación
 
 LEER numero_telefonico
 
-SIumero_telefonico ES válido entonces
-ENVIAR codigo_verificaion
-SINO n
-MOSTRAR "Númwero INválido"
-SOLICITAR nuevo numero
+SI numero_telefonico ES válido ENTONCES
+   ENVIAR codigo_verificaion
+SINO 
+   MOSTRAR "Númwero Inválido"
+   SOLICITAR nuevo numero
 FIN SI
 
 LEER coigo_verificacion
-SI coigo_verificacion ES correcto ENTONCES
-PERMITIR acceso
+
+SI codigo_verificacion ES correcto ENTONCES
+   PERMITIR acceso
 SINO
-MOSTRAR "Código Incorrecto"
-PERMITIR reintento
+   MOSTRAR "Código Incorrecto"
+   PERMITIR reintento
 FIN SI
 FIN
-``
+``` 
 
 
  
