@@ -2,8 +2,8 @@
 
 ## Descripción
 Algotitmo que describe el uso del Cajero automático
-
 ## Pasos
+```text
 INICIO
 1. Insertar tarjeta
 2. Ingresar usuaro o DNI
@@ -18,6 +18,7 @@ Si la clave es incorrecta:
 6. Entregar baucher
 7. expulsar tarjeta
 FIN
+```
 
 ## PSEUDOCODIGO
 ```
