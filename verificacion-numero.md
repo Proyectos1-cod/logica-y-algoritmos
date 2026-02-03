@@ -1,11 +1,10 @@
 # Algoritmo: Verificacion de número telefonico en una aplicación
 
-## Descripción
+## Descripción ##
 Algoritmo que describe el proceso de verificación de un número 
 telefónico al registrarse en una aplicación.
 
-## Pasos:
-``text
+```text
 INICIO
 1. Descargar la aplicación.
 2. Instalar la aplicación.
@@ -26,10 +25,10 @@ SI el código es incorrecto ENTONCES
  - Mostrar mensaje de error
  - Permitir reintento
 FIN
-``
+```
 
-### PSEUDOCÓDIGO
-``
+## PSEUDOCÓDIGO ##
+```
 INICIO
 DESCARGAR aplicación
 INSTALAR aplicación
@@ -53,7 +52,7 @@ SINO
    PERMITIR reintento
 FIN SI
 FIN
-``` 
+```
 
 
  
